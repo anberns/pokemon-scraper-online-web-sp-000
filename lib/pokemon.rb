@@ -19,4 +19,3 @@ class Pokemon
   
 end
 
-pikachu_from_db = Pokemon.find(1, @db)
